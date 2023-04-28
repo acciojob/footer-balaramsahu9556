@@ -3,6 +3,12 @@
 	background-color:black;
 	color:white;
 }
-.logo-details{
-	
+.top{
+	display:flex;
+	justify-content: space-between;
+	height: 80px;
+	padding:20px;
+}
+img{
+	width:10px;
 }
